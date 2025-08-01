@@ -1,2 +1,3 @@
 # itrhub
-key system don't waist your time
+private script
+# loadstring(game:HttpGet("https://raw.githubusercontent.com/itrscripts/itrhub/refs/heads/main/hub.lua",true))()
